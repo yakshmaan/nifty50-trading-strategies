@@ -47,5 +47,5 @@ This repository contains the full research paper and Python code for both strate
 
 Open to feedback, discussions, and collaboration.
 
-📧 your.email@example.com  
+yakshmaan6@gmail.com 
 🔗 [LinkedIn]www.linkedin.com/in/yaksh1
